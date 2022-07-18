@@ -19,7 +19,6 @@
 {kp-C}>{speed9}{-lctrl}{C}{+lctrl}
 {rctrl}{Q}>{speed9}{-lwin}{Q}{+lwin}
 {rctrl}{W}>{speed9}{-lwin}{W}{+lwin}
-{rctrl}{R}>{speed9}{-lwin}{R}{+lwin}
 {rctrl}{T}>{speed9}{-lwin}{T}{+lwin}
 {rctrl}{Y}>{speed9}{-lshift}{-lwin}{Z}{+lwin}{+lshift}
 {rctrl}{U}>{speed9}{-lwin}{U}{+lwin}
@@ -30,6 +29,7 @@
 {rctrl}{S}>{speed9}{-lwin}{S}{+lwin}
 {rctrl}{F}>{speed9}{-lwin}{F}{+lwin}
 {rctrl}{K}>{speed9}{-lwin}{K}{+lwin}
+{rctrl}{L}>{speed9}{-lwin}{L}{+lwin}
 {rctrl}{Z}>{speed9}{-lwin}{Z}{+lwin}
 {rctrl}{X}>{speed9}{-lwin}{X}{+lwin}
 {rctrl}{C}>{speed9}{-lwin}{C}{+lwin}
