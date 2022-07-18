@@ -21,6 +21,7 @@
 {rctrl}{X}>{speed9}{-lwin}{X}{+lwin}
 {rctrl}{K}>{speed9}{-lwin}{K}{+lwin}
 {rctrl}{S}>{speed9}{-lwin}{S}{+lwin}
+{rctrl}{F}>{speed9}{-lwin}{F}{+lwin}
 {rctrl}{B}>{speed9}{-lwin}{B}{+lwin}
 {rctrl}{I}>{speed9}{-lwin}{I}{+lwin}
 {rctrl}{U}>{speed9}{-lwin}{U}{+lwin}
