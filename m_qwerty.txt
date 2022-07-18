@@ -1,5 +1,6 @@
 [caps]>[kpshift]
 [kp-caps]>[kpshift]
+[kp-lshift]>[kpplus]
 [lalt]>[rctrl]
 [kp7]>[`]
 [kp8]>[obrack]
@@ -30,3 +31,4 @@
 {rctrl}{W}>{speed9}{-lwin}{W}{+lwin}
 {rctrl}{Z}>{speed9}{-lwin}{Z}{+lwin}
 {rctrl}{Y}>{speed9}{-lshift}{-lwin}{Z}{+lwin}{+lshift}
+{kpplus}>{speed9}{-lshift}{=}{+lshift}
